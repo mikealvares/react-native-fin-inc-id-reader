@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: org.jmrtd:jmrtd:0.5.5">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jmrtd/jmrtd/0.5.5/92d436642e5f82b848ce069f16916fa330571a49/jmrtd-0.5.5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jmrtd/jmrtd/0.5.5/d5242cd4660cd919ea765bb9e8749cbcc21d1b99/jmrtd-0.5.5-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
