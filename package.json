@@ -1,14 +1,13 @@
 {
   "name": "react-native-fin-inc-id-reader",
   "title": "React Native Fin Inc Id Reader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Get the NFC tag and extract the DG1,2,3,7,11,14",
   "main": "index.js",
   "files": [
     "README.md",
     "android",
     "index.js",
-    "ios",
     "react-native-fin-inc-id-reader.podspec"
   ],
   "scripts": {
